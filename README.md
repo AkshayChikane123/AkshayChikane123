@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AkshayChikane123
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning Full Stack Development
+- 🌱 I’m currently learning Full Stack Development course through coding ninjas platform
 - 📫 How to reach me : akshay13498@gmail.com
   
 <!---
